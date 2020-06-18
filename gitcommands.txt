@@ -1,0 +1,7 @@
+git clone url
+git commit -m "comment"
+git status
+git checkout -b "branch name"
+git branch
+git add .
+git checkout master
